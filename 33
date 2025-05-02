@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>33. CAT devant une occlusion aiguë de l’aorte</title>
+  <style>
+    summary.red { color: red; font-weight: bold; font-size: 1.2em; }
+    summary.green { color: green; font-weight: bold; font-size: 1.1em; margin-left: 1em; }
+    .blue { color: blue; font-weight: bold; }
+    .orange { background-color: orange; }
+    .yellow { background-color: yellow; }
+    details { margin-bottom: 1em; }
+  </style>
+</head>
+<body>
+
+<details>
+  <summary class="red">I. Introduction :</summary>
+  <ul>
+    <li>Interruption brutale du flux artériel au niveau de l’aorte responsable d’une ischémie bilatérale des 2 MI +++</li>
+    <li>Situation rare mais dramatique → Pc vital mis en jeu</li>
+    <li>Urgence médico-chirurgicale</li>
+  </ul>
+</details>
+
+<details>
+  <summary class="red">II. CAT diagnostique :</summary>
+
+  <details>
+    <summary class="green">1. Diagnostic positif :</summary>
+    <ul>
+      <li><strong>Signes d’ischémie aiguë étendue aux 2 MI : 6 P</strong></li>
+      <ul>
+        <li><span class="blue">1. Douleur :</span> PAIN</li>
+        <li><span class="blue">2. Pâleur :</span> PALOR</li>
+        <li><span class="blue">3. froideur :</span> PERISHING</li>
+        <li><span class="blue">4. Abolition des pouls :</span> PULSELESSNESS</li>
+        <li><span class="blue">5. Paresthésies :</span> PARESTHESIS</li>
+        <li><span class="blue">6. Paralysie :</span> PARALYSIS</li>
+      </ul>
+      <li><strong>Signes abdominaux :</strong>
+        <ul>
+          <li>Atteinte pariétale : pâleur, douleurs violentes, froideur, paresthésie</li>
+          <li>Abolition des bruits hydro-aériques – distension abdominale</li>
+          <li>Hyposesthésie des orteils & avants-pieds</li>
+        </ul>
+      </li>
+      <li><strong>Signes généraux :</strong> AEG</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary class="green">2. Diagnostic différentiel :</summary>
+    <ul>
+      <li><span class="blue">a. Pathologie neurologique :</span> paresthésies des Mb, paraplégie flasque …</li>
+      <li><span class="blue">b. Pathologie vasculaire :</span> Phlébite bleue étendue aux 2 MI</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary class="green">3. Diagnostic étiologique : ne doit pas retarder la PEC thérapeutique</summary>
+    <p><span class="blue">a. Interrogatoire :</span></p>
+    <ul>
+      <li>FDR cv-x : tabac, diabète, HTA, dyslipidémie…</li>
+      <li>ATCD : cardiopathie, troubles du rythme, troubles de coagulation…</li>
+      <li>Douleur : intense (embolie) – variable (thrombose)</li>
+    </ul>
+    <p><span class="blue">b. Examen clinique :</span></p>
+    <ul>
+      <li>Cardiaque (auscultation + ECG → TDR)</li>
+      <li>Abdominale (anévrysme de l’aorte) – Axes artériels (anévrysme artériel)</li>
+    </ul>
+    <p><span class="blue">c. Ex. paracliniques :</span></p>
+    <ul>
+      <li>Echo-doppler – Angioscanner – Artériographie : étude siège & nature de l’obstacle</li>
+      <li>Bilan cardiaque : ETT, ETO</li>
+      <li>Biologie : Kaliémie ++, Urée-créat, CPK</li>
+    </ul>
+    <p><span class="blue">d. Étiologies :</span></p>
+    <ol>
+      <li><strong>Embolie :</strong> Tr. de rythme (ACFA), valvulopathies, IDM, aortite emboligène, E. septique…</li>
+      <li><strong>Thrombose :</strong> Athéromateuse, inflammatoire, trb de coagulation (hypercoagulabilité)…</li>
+    </ol>
+  </details>
+
+</details>
+
+<details>
+  <summary class="red">III. CAT thérapeutique :</summary>
+  <ol>
+    <li><strong>Hospitalisation</strong></li>
+    <li><strong>Mise en condition :</strong> Monitorage (Fc, TA, FR, SaO₂, diurèse), VVP, O₂, bilan initial</li>
+    <li>
+      <span class="blue"><strong>Ttt médical :</strong></span>
+      <ul>
+        <li>Héparine : HNF bolus puis <span class="yellow">500 UI/Kg/j</span> en IVSE pour limiter l’extension de la thrombose</li>
+        <li>Antalgiques classe 2 ou 3</li>
+        <li>Correction des trb hydro-électrolytiques</li>
+        <li>Correction des trb métaboliques de l’ischémie ou de la revascularisation : acidose, hyperK⁺, IR</li>
+      </ul>
+    </li>
+    <li><strong>Ttt chirurgical :</strong>
+      <ul>
+        <li><strong>Si lésions iliaques proximales :</strong> Angioplastie</li>
+        <li><strong>En cas d’impossibilité d’angioplastie :</strong> Pontage aorto-bifémoral ou axillo-bifémoral</li>
+        <li><strong>En cas de traumatisme :</strong> Réparation directe (éviter matériel prothétique)</li>
+        <li><strong>Prévention du sd de loges :</strong> Aponévrotomie de décharge</li>
+      </ul>
+    </li>
+    <li><span class="blue"><strong>Ttt étiologique :</strong></span> traitement du trouble de rythme, correction des FDR CV</li>
+    <li><strong>Surveillance :</strong>
+      <ul>
+        <li><strong>Clinique :</strong> EHD, signes d’ischémie</li>
+        <li><strong>Biologique :</strong> Plq, TCA, créatinine…</li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+<details>
+  <summary class="red">IV. Conclusion :</summary>
+  <ul>
+    <li>Entité clinique rare</li>
+    <li>Le dg paraclinique ne doit pas retarder la PEC</li>
+    <li><strong>TTT chirurgical :</strong> base du traitement</li>
+    <li>Pronostic : vital mis en jeu</li>
+  </ul>
+</details>
+
+</body>
+</html>
